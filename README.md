@@ -63,8 +63,8 @@ Final train accuracy (epoch 12)	68.6%
 Best validation accuracy	60.7% (epoch 12)
 Best train loss	1.151 (epoch 12)
 Best validation loss	1.588 (epoch 12)
-Test accuracy	TEST_ACC
-Test loss	TEST_LOSS
+Test accuracy	59.4% (815 / 1373 correct)
+Test loss	1.647
 
 For comparison, random guessing over 67 classes would give about 1.5%.
 
@@ -114,3 +114,6 @@ crop the food items into class folders,
 train the CNN and show all results.
 
 If the folder isn't found, make sure it's in My Drive and not only in Shared with me. In Drive, right-click it → Organize → Add shortcut → My Drive.
+
+
+Dataset: FoodBD — A Polygon-Annotated Meal Image Dataset of Bangladeshi food.
